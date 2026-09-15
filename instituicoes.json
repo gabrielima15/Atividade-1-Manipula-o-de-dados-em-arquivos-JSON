@@ -538,5 +538,23 @@
         "qt_mat_prof": 0,
         "qt_mat_eja": 284,
         "qt_mat_esp": 110
+    },
+    {
+        "id": "32",
+        "no_entidade": "Universidade Estadual da Paraíba - UEPB",
+        "co_entidade": 25110558,
+        "no_uf": "Paraíba",
+        "sg_uf": "PB",
+        "co_uf": 25,
+        "no_municipio": "Guarabira",
+        "co_municipio": 2512507,
+        "nu_ano_censo": 2025,
+        "qt_mat_bas": 1218,
+        "qt_mat_inf": 0,
+        "qt_mat_fund": 934,
+        "qt_mat_med": 0,
+        "qt_mat_prof": 0,
+        "qt_mat_eja": 284,
+        "qt_mat_esp": 110
     }
 ]
